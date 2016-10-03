@@ -1,8 +1,8 @@
 class StudentsController < ApplicationController
 	def new
     	@placeholder_name = 'Harambe'
-    	@placeholder_team = 'GoldenStateWarriors'
-    	@placeholder_player = 'WardellCurry,Jr.'
+    	@placeholder_team = 'Golden State Warriors'
+    	@placeholder_player = 'Wardell Curry II'
   	end
 
 	def create
